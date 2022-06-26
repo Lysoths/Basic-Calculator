@@ -6,7 +6,7 @@ let number1 = [];
 let result = 0;
 numbers.forEach((a, b) => {
   a.addEventListener("click", (e) => {
-    input.value += b + 1;
+    input.value += b;
   });
 });
 
