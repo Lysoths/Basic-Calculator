@@ -1,1 +1,1 @@
- https://lysoths.github.io/denemee/
+https://lysoths.github.io/Basic-Calculator/
